@@ -1,0 +1,4 @@
+-Rewrite it to a virtualized scroll, which means:
+  -There's no scolling elements.
+   All time there's this same elements on the screen.
+   Their data change as the scoll goes.
